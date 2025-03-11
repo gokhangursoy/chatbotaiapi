@@ -240,7 +240,7 @@ body.show-chatbot .chatbot {
       </button>
       <div class="chatbot">
         <header>
-          <h2>KTÜ AI Asistan</h2>
+          <h2>AI Asistan</h2>
           <p>Bu uygulama, yapay zeka (AI) teknolojisiyle desteklenmektedir. Sağlanan yorumların doğruluğu kesin olarak garanti edilmemekte olup, hukuki bağlayıcılık taşımamaktadır.</p>
           <span class="close-btn material-symbols-outlined">close</span>
         </header>
